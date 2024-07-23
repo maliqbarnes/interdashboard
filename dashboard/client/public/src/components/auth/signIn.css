@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif; ;
+}
+
+body{
+    background-image: linear-gradient(to right, #cdffd8, #94b9ff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sign_in_block{
+    background-color: white;
+    height: 648px;
+    width: 596px;
+    border-radius: 25px;
+    position: relative;
+    left: -20%;
+    
+}
